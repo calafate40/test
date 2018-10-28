@@ -1,3 +1,5 @@
 my first test
 secondman
 from imac02
+new from new
+>>>>>>> newer_branch_from_b8
